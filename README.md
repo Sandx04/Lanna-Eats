@@ -88,7 +88,7 @@
 
         <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
             <div class="relative group overflow-hidden h-[500px] border border-[#E2D6C3]">
-                <img src="https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=800&q=80" alt="Signature Noodles" class="w-full h-full object-cover group-hover:scale-105 transition duration-700">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxHV0Oyia8tPpi72rPutuMxMJhha8Xujz2FdqtBEVkAX8-qjjV9lOqZ0k&s=10" alt="Signature Noodles" class="w-full h-full object-cover group-hover:scale-105 transition duration-700">
                 <div class="absolute inset-x-6 bottom-6 bg-[#F8F5EE]/95 backdrop-blur-md p-6 border border-[#E2D6C3]">
                     <span class="text-[10px] uppercase tracking-[0.2em] text-stone-500 block mb-1">01 / Specialties</span>
                     <h3 class="editorial-font text-xl font-normal text-[#262220] mb-2">Signature Noodles</h3>
@@ -96,7 +96,7 @@
                 </div>
             </div>
             <div class="relative group overflow-hidden h-[500px] border border-[#E2D6C3]">
-                <img src="https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80" alt="Herbal Appetizers" class="w-full h-full object-cover group-hover:scale-105 transition duration-700">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjVU9qWvW6ccktPcnM7wDWxMPZ7LnSFxpH_Nrjph_rogg2cbo7weDXGW70&s=10" alt="Herbal Appetizers" class="w-full h-full object-cover group-hover:scale-105 transition duration-700">
                 <div class="absolute inset-x-6 bottom-6 bg-[#F8F5EE]/95 backdrop-blur-md p-6 border border-[#E2D6C3]">
                     <span class="text-[10px] uppercase tracking-[0.2em] text-stone-500 block mb-1">02 / Tradition</span>
                     <h3 class="editorial-font text-xl font-normal text-[#262220] mb-2">Herbal Appetizers</h3>
@@ -104,7 +104,7 @@
                 </div>
             </div>
             <div class="relative group overflow-hidden h-[500px] border border-[#E2D6C3]">
-                <img src="https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=800&q=80" alt="Refreshments" class="w-full h-full object-cover group-hover:scale-105 transition duration-700">
+                <img src="https://benothailand.com/cdn/shop/articles/Iced_thai_milk_tea_in_glass_9c10e268-b2bd-4406-a25f-e27d39f03d92.jpg?v=1780021592" alt="Refreshments" class="w-full h-full object-cover group-hover:scale-105 transition duration-700">
                 <div class="absolute inset-x-6 bottom-6 bg-[#F8F5EE]/95 backdrop-blur-md p-6 border border-[#E2D6C3]">
                     <span class="text-[10px] uppercase tracking-[0.2em] text-stone-500 block mb-1">03 / Refresh</span>
                     <h3 class="editorial-font text-xl font-normal text-[#262220] mb-2">Refreshing Drinks</h3>
@@ -165,16 +165,16 @@
 
     <script>
         const menuData = [
-            { id: 'M01', name_th: 'ข้าวซอยไก่', name_en: 'Khao Soi Chicken', category: 'noodle', price: 69, image: 'https://images.unsplash.com/photo-1543339308-43e59d6b73a6?auto=format&fit=crop&w=800&q=80' },
-            { id: 'M02', name_th: 'ข้าวซอยเนื้อ', name_en: 'Khao Soi Beef', category: 'noodle', price: 79, image: 'https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=800&q=80' },
-            { id: 'M03', name_th: 'ข้าวซอยเจ', name_en: 'Khao Soi Vegan', category: 'noodle', price: 69, image: 'https://images.unsplash.com/photo-1552611052-33e04de081de?auto=format&fit=crop&w=800&q=80' },
-            { id: 'M04', name_th: 'ไส้อั่ว', name_en: 'Sai Ua Sausage', category: 'side', price: 49, image: 'https://images.unsplash.com/photo-1626777552726-4a6b54c97e46?auto=format&fit=crop&w=800&q=80' },
-            { id: 'M05', name_th: 'แคบหมู', name_en: 'Pork Crackling', category: 'side', price: 39, image: 'https://images.unsplash.com/photo-1599487484170-7c1e6b5fa81d?auto=format&fit=crop&w=800&q=80' },
+            { id: 'M01', name_th: 'ข้าวซอยไก่', name_en: 'Khao Soi Chicken', category: 'noodle', price: 69, image: 'https://api2.krua.co/wp-content/uploads/2020/06/Image_RT0143_450x450.jpg' },
+            { id: 'M02', name_th: 'ข้าวซอยเนื้อ', name_en: 'Khao Soi Beef', category: 'noodle', price: 79, image: 'https://api2.krua.co/wp-content/uploads/2020/06/RT1462_ImageBanner_1140x507.jpg' },
+            { id: 'M03', name_th: 'ข้าวซอยเจ', name_en: 'Khao Soi Vegan', category: 'noodle', price: 69, image: 'https://img.wongnai.com/p/1920x0/2018/08/25/2aba113df6e34174a7cdb92d72c14f7b.jpg' },
+            { id: 'M04', name_th: 'ไส้อั่ว', name_en: 'Sai Ua Sausage', category: 'side', price: 49, image: 'https://api2.krua.co/wp-content/uploads/2020/06/Image_RT0146_450x450.jpg' },
+            { id: 'M05', name_th: 'แคบหมู', name_en: 'Pork Crackling', category: 'side', price: 39, image: 'https://api2.krua.co/wp-content/uploads/2023/05/Image_613x300-11.jpg' },
             { id: 'M06', name_th: 'ข้าวซอยทะเล', name_en: 'Khao Soi Seafood', category: 'noodle', price: 99, image: 'https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?auto=format&fit=crop&w=800&q=80' },
-            { id: 'M07', name_th: 'ชาเย็น', name_en: 'Thai Iced Tea', category: 'drink', price: 29, image: 'https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&w=800&q=80' },
-            { id: 'M08', name_th: 'น้ำส้ม', name_en: 'Orange Juice', category: 'drink', price: 35, image: 'https://images.unsplash.com/photo-1613478223719-2ab802602423?auto=format&fit=crop&w=800&q=80' },
-            { id: 'M09', name_th: 'ขนมจีนน้ำเงี้ยว', name_en: 'Khanom Jeen Nam Ngiao', category: 'noodle', price: 59, image: 'https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=800&q=80' },
-            { id: 'M10', name_th: 'ข้าวเหนียว', name_en: 'Sticky Rice', category: 'side', price: 15, image: 'https://images.unsplash.com/photo-1586201375761-83865001e31c?auto=format&fit=crop&w=800&q=80' }
+            { id: 'M07', name_th: 'ชาเย็น', name_en: 'Thai Iced Tea', category: 'drink', price: 29, image: 'https://p.lnwfile.com/_webp_max/4096/4096/7lzqng.webp' },
+            { id: 'M08', name_th: 'น้ำส้ม', name_en: 'Orange Juice', category: 'drink', price: 35, image: 'https://img.magnific.com/free-photo/fresh-orange-juice-glass-marble-background_1150-45562.jpg?semt=ais_hybrid&w=740&q=80' },
+            { id: 'M09', name_th: 'ขนมจีนน้ำเงี้ยว', name_en: 'Khanom Jeen Nam Ngiao', category: 'noodle', price: 59, image: 'https://api2.krua.co/wp-content/uploads/2022/01/RT0867_Image-450x450-01.jpg' },
+            { id: 'M10', name_th: 'ข้าวเหนียว', name_en: 'Sticky Rice', category: 'side', price: 15, image: 'https://www.1376delivery.com/productimages/7036_-.jpg' }
         ];
 
         function renderMenu(filter = 'all') {
